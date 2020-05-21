@@ -1,3 +1,7 @@
+UPDATE V2 version softwares
+
+Some bugs corrections
+
 # Video-and-Image-treatment-using-Python-OpenCV-and-CUDA
 
 Those programs and routines are only for personal use and non commercial use.
