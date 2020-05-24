@@ -1,3 +1,17 @@
+UPDATE V3
+
+I have added a software version that allow to control PiCamera V2 colour in order to create videos or images.
+
+I is very basic implementation of PiCamera V2 and there is still some issues (for example, you must kill the program to stop it ; i don't know what's going on).
+
+The Picamer V2 setup is very basic and setup options in my software are non fonctional BUT all the filters work properly.
+
+This is a free use software ONLY for personal use.
+
+If you want to use it (part of the software or all the software) for commercial use, contact me before.
+
+
+
 UPDATE V2 version softwares
 
 Some bugs corrections
