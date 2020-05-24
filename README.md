@@ -10,11 +10,15 @@ This is a free use software ONLY for personal use.
 
 If you want to use it (part of the software or all the software) for commercial use, contact me before.
 
-
+**********************************************************************************************************
 
 UPDATE V2 version softwares
 
 Some bugs corrections
+
+**********************************************************************************************************
+
+Initial release
 
 # Video-and-Image-treatment-using-Python-OpenCV-and-CUDA
 
